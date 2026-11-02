@@ -1,0 +1,2 @@
+Hello. Today I'd like to introduce a game and a device that I built.
+The first is a text-based RPG. The second is a distance synthesizer.

@@ -1,0 +1,4 @@
+Next is the distance synthesizer.
+An ultrasonic sensor measures the distance to your hand.
+That distance is converted into a frequency, which is the pitch of the sound, and played as a sine wave.
+Just by moving your hand, the sound changes.

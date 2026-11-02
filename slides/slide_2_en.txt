@@ -1,0 +1,4 @@
+Let's start with the text RPG.
+The player explores three areas: a forest, a cave, and a castle.
+You collect items along the way, and in the end, you fight the final boss.
+The program is built with Python classes, and it's published on GitHub.

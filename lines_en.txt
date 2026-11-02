@@ -1,0 +1,4 @@
+Hello. This is an itroduction to the Distance Synthesizer.
+An ultrasonic sensor measures the distance to your hand.
+The pitch changes depending on the distance.
+Just hold out your hand, and you can play music.
